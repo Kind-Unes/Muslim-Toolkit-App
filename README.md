@@ -32,7 +32,7 @@
   <img src="screenshots/sc (10).jpg" width="200" />
   <img src="screenshots/sc (11).jpg" width="200" />
   <img src="screenshots/sc (12).jpg" width="200" />
-  <img src="screenshots/sc (13).jpg" width="200" />
+  !<img src="screenshots/sc (13).jpg" width="200" />
   <img src="screenshots/sc (14).jpg" width="200" />
   <img src="screenshots/sc (15).jpg" width="200" />
   <img src="screenshots/sc (16).jpg" width="200" />
