@@ -1,9 +1,9 @@
 # تطبيق الأدوات الإسلامية
 
-## وصف التطبيق
-تطبيق اسلامي شامل يحتوي على جميع الأدوات اللازمة لحياة المسلم.
+## لمحة عن التطبيق
+تطبيق اسلامي شامل يحتوي على جميع الأدوات اللازمة لحياة المسلم (مصحف مفسر و مترجم مرفق بملفات صوتية و امكانيو تحديد الايات - سبحة الكترونية - اذكار و ادعية - مكتبة فيديوهات و دورات تعليمية - لوحة تحكم للأدمن - مواقيت الصلاة - تنبيهات و المزيد ...).
 
-## زر الطلب
+## أحصل على سورس كود (source code) التطبيق عبر :
 <p align="center">
   <a href="https://younes-codes.web.app">
     <img src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub%2Fsponsored%2Fbutton_request.png?alt=media" alt="طلب" width="200" />
@@ -95,16 +95,16 @@
 دورات تعليمية في مختلف المواضيع الإسلامية.
 
 ## التقنيات المستعملة
-### 1. Flutter
+### 1. تقنية Flutter
 تم استخدام Flutter لتطوير واجهة المستخدم.
 
-### 2. Firebase
+### 2. تقنية Firebase
 تم استخدام Firebase كخدمة خلفية.
 
-### 3. ObjectBox & SharedPreferences
+### 3. تقنية ObjectBox & SharedPreferences
 تم استخدام ObjectBox و SharedPreferences كقاعدة بيانات محلية.
 
-### 4. LocalNotifications
+### 4. تقنية LocalNotifications
 تم استخدام LocalNotifications لإدارة الإشعارات المحلية.
 
 # API
@@ -114,3 +114,21 @@
 
 # تطبيقات مشابهة
 للحصول على تطبيقات مشابهة، يمكنك التواصل معي عبر البريد الإلكتروني: [hellalet.younes@gmail.com](mailto:hellalet.younes@gmail.com)
+
+
+## متاح قريبا على متاجر
+
+<p align="center">
+  <a href="https://apps.apple.com/app/idXXXXXXXXX" target="_blank">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Available on the Apple Store" width="150"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.example" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Available on Google Play" width="150"/>
+  </a>
+  <a href="https://appgallery.huawei.com/#/app/CXXXXXXXX" target="_blank">
+    <img src="https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/stores/Generic/00000002/headers/appgallery_generic_header.png" alt="Available on Huawei AppGallery" width="150"/>
+  </a>
+  <a href="https://www.amazon.com/dp/BXXXXXXXXX" target="_blank">
+    <img src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/logo-appstore-large._CB519894348_.png" alt="Available on Amazon Appstore" width="150"/>
+  </a>
+</p>
