@@ -97,33 +97,22 @@
 
 ## التقنيات المستعملة
 ### 1. Flutter
-<p align="center">
-  <img src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png" alt="Flutter" width="200" />
-</p>
 تم استخدام Flutter لتطوير واجهة المستخدم.
 
 ### 2. Firebase
-<p align="center">
-  <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-standard.png" alt="Firebase" width="200" />
-</p>
 تم استخدام Firebase كخدمة خلفية.
 
 ### 3. ObjectBox & SharedPreferences
-<p align="center">
-  <img src="https://objectbox.io/wp-content/uploads/2020/01/objectbox_dart.png" alt="ObjectBox" width="200" />
-  <img src="https://developer.android.com/images/develop/ui/views/shared_preferences.png" alt="SharedPreferences" width="200" />
-</p>
 تم استخدام ObjectBox و SharedPreferences كقاعدة بيانات محلية.
 
 ### 4. LocalNotifications
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*VK5HhPXeN6FjFwqBd0-f7g.png" alt="LocalNotifications" width="200" />
-</p>
 تم استخدام LocalNotifications لإدارة الإشعارات المحلية.
 
-## API
-نشكر:
-- [mp3quran.net](https://mp3quran.net/ar/api) على خدماتهم.
-- [api.quran-tafseer.com](http://api.quran-tafseer.com/en/docs/) على خدماتهم.
+# API
+## أقدم جزيل الشكر لـ:
+- موقع [mp3quran.net](https://mp3quran.net/ar/api) على خدماتهم.
+- موقع [api.quran-tafseer.com](http://api.quran-tafseer.com/en/docs/) على خدماتهم.
+
+# تطبيقات مشابهة
 
 للحصول على تطبيقات مشابهة، يمكنك التواصل معي عبر البريد الإلكتروني: [hellalet.younes@gmail.com](mailto:hellalet.younes@gmail.com)
