@@ -1,9 +1,7 @@
 # تطبيق الأدوات الإسلامية
 
 ## وصف التطبيق
-<p style="font-size: 20px; font-weight: bold;">
 تطبيق اسلامي شامل يحتوي على جميع الأدوات اللازمة لحياة المسلم.
-</p>
 
 ## زر الطلب
 <p align="center">
@@ -53,104 +51,66 @@
 </p>
 
 ## المميزات
-<p style="font-size: 20px; font-weight: bold;">
 ### 1. السبحة
-</p>
 سبحة الكترونية مدمجة بقاعدة بايانات داخلية.
 
-<p style="font-size: 20px; font-weight: bold;">
 ### 2. القرآن الكريم مع إمكانية اختيار الآيات
-</p>
 - **تلاوة الآية**: استمع إلى تلاوة الآية.
 - **تفسير الآية (4 تفاسير)**: يحتوي التطبيق على اربع تفاسير (الميسر - السعدي - ابن كثير - البغوي).
 - **ترجمة الآية**: ترجمة الآية إلى لغات متعددة.
 - **مشاركة الآية**: شارك الآية مع الآخرين.
 - **إضافة علامة مرجعية**: احفظ موضع الاية للعودة لها لاحقا.
 
-<p style="font-size: 20px; font-weight: bold;">
 ### 3. نظام الورد اليومي
-</p>
 تنظيم وقراءة الأوراد اليومية يمكن للمتسخدم التعديل عليه و تحديد كمية الورد و ظبط منبه يومي.
 
-<p style="font-size: 20px; font-weight: bold;">
 ### 4. الأذكار والتذكيرات
-</p>
 مجموعة من الأذكار اليومية مع تذكيرات مخصصة.
 
-<p style="font-size: 20px; font-weight: bold;">
 ### 5. الأدعية
-</p>
 أدعية متنوعة للمناسبات المختلفة.
 
-<p style="font-size: 20px; font-weight: bold;">
 ### 6. فيديوهات تعليمية إسلامية
-</p>
 فيديوهات تعليمية تغطي مواضيع إسلامية متعددة.
 
-<p style="font-size: 20px; font-weight: bold;">
 ### 7. مكتبة الكتب الإسلامية
-</p>
 مجموعة واسعة من الكتب الإسلامية للقراءة والتحميل.
 
-<p style="font-size: 20px; font-weight: bold;">
 ### 8. تذكير المهام (العادات الإسلامية)
-</p>
 تذكيرات للمهام اليومية الإسلامية.
 
-<p style="font-size: 20px; font-weight: bold;">
 ### 9. اتجاه القبلة
-</p>
 تحديد اتجاه القبلة بسهولة.
 
-<p style="font-size: 20px; font-weight: bold;">
 ### 10. مواقيت الصلاة
-</p>
 مواقيت الصلاة لجميع أنحاء العالم.
 
-<p style="font-size: 20px; font-weight: bold;">
 ### 11. ملصقات إسلامية
-</p>
 مجموعة من الملصقات الإسلامية لاستخدامها في التطبيقات المختلفة.
 
-<p style="font-size: 20px; font-weight: bold;">
 ### 12. متجر متكامل لبيع المصاحف
-</p>
 شراء المصاحف والكتب الإسلامية من المتجر.
 
-<p style="font-size: 20px; font-weight: bold;">
 ### 13. دورات تعليمية
-</p>
 دورات تعليمية في مختلف المواضيع الإسلامية.
 
 ## التقنيات المستعملة
-<p style="font-size: 20px; font-weight: bold;">
 ### 1. Flutter
-</p>
 تم استخدام Flutter لتطوير واجهة المستخدم.
 
-<p style="font-size: 20px; font-weight: bold;">
 ### 2. Firebase
-</p>
 تم استخدام Firebase كخدمة خلفية.
 
-<p style="font-size: 20px; font-weight: bold;">
 ### 3. ObjectBox & SharedPreferences
-</p>
 تم استخدام ObjectBox و SharedPreferences كقاعدة بيانات محلية.
 
-<p style="font-size: 20px; font-weight: bold;">
 ### 4. LocalNotifications
-</p>
 تم استخدام LocalNotifications لإدارة الإشعارات المحلية.
 
-## API
-<p style="font-size: 20px; font-weight: bold;">
-### أقدم جزيل الشكر لـ:
-</p>
+# API
+## أقدم جزيل الشكر لـ:
 - موقع [mp3quran.net](https://mp3quran.net/ar/api) على خدماتهم.
 - موقع [api.quran-tafseer.com](http://api.quran-tafseer.com/en/docs/) على خدماتهم.
 
-## تطبيقات مشابهة
-<p style="font-size: 20px; font-weight: bold;">
+# تطبيقات مشابهة
 للحصول على تطبيقات مشابهة، يمكنك التواصل معي عبر البريد الإلكتروني: [hellalet.younes@gmail.com](mailto:hellalet.younes@gmail.com)
-</p>
