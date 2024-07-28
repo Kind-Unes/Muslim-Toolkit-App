@@ -128,7 +128,7 @@
   <a href="https://appgallery.huawei.com/#/app/CXXXXXXXX" target="_blank">
     <img src="https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/stores/Generic/00000002/headers/appgallery_generic_header.png" alt="Available on Huawei AppGallery" width="150"/>
   </a>
-  <a href="https://www.amazon.com/dp/BXXXXXXXXX" target="_blank">
-    <img src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/logo-appstore-large._CB519894348_.png" alt="Available on Amazon Appstore" width="150"/>
+  <a href="screenshots/app-galery.png" target="_blank">
+    <img src="screenshots/amazon-appstore.png" alt="Available on Amazon Appstore" width="150"/>
   </a>
 </p>
