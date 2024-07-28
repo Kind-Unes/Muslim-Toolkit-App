@@ -8,8 +8,16 @@
 
 ## لقطات الشاشة
 <p align="center">
-  <img src="screenshots/sc (1).jpg" width="200" />
+  <img src="screenshots/sc (24).jpg" width="200" />
+  <img src="screenshots/sc (36).jpg" width="200" />
+  <img src="screenshots/sc (23).jpg" width="200" />
+  <img src="screenshots/sc (21).jpg" width="200" />
+  <img src="screenshots/sc (20).jpg" width="200" />
+  <img src="screenshots/sc (19).jpg" width="200" />
+  <img src="screenshots/sc (17).jpg" width="200" />
+  <img src="screenshots/sc (25).jpg" width="200" />
   <img src="screenshots/sc (2).jpg" width="200" />
+  <img src="screenshots/sc (1).jpg" width="200" />
   <img src="screenshots/sc (3).jpg" width="200" />
   <img src="screenshots/sc (4).jpg" width="200" />
   <img src="screenshots/sc (5).jpg" width="200" />
@@ -24,15 +32,8 @@
   <img src="screenshots/sc (14).jpg" width="200" />
   <img src="screenshots/sc (15).jpg" width="200" />
   <img src="screenshots/sc (16).jpg" width="200" />
-  <img src="screenshots/sc (17).jpg" width="200" />
   <img src="screenshots/sc (18).jpg" width="200" />
-  <img src="screenshots/sc (19).jpg" width="200" />
-  <img src="screenshots/sc (20).jpg" width="200" />
-  <img src="screenshots/sc (21).jpg" width="200" />
   <img src="screenshots/sc (22).jpg" width="200" />
-  <img src="screenshots/sc (23).jpg" width="200" />
-  <img src="screenshots/sc (24).jpg" width="200" />
-  <img src="screenshots/sc (25).jpg" width="200" />
   <img src="screenshots/sc (26).jpg" width="200" />
   <img src="screenshots/sc (27).jpg" width="200" />
   <img src="screenshots/sc (28).jpg" width="200" />
@@ -43,7 +44,6 @@
   <img src="screenshots/sc (33).jpg" width="200" />
   <img src="screenshots/sc (34).jpg" width="200" />
   <img src="screenshots/sc (35).jpg" width="200" />
-  <img src="screenshots/sc (36).jpg" width="200" />
 </p>
 
 ## المميزات
