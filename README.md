@@ -107,7 +107,7 @@
 ### 4. تقنية LocalNotifications
 تم استخدام LocalNotifications لإدارة الإشعارات المحلية.
 
-# API
+# مصادر الـ APIs
 ## أقدم جزيل الشكر لـ:
 - موقع [mp3quran.net](https://mp3quran.net/ar/api) على خدماتهم.
 - موقع [api.quran-tafseer.com](http://api.quran-tafseer.com/en/docs/) على خدماتهم.
