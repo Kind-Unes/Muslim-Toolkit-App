@@ -142,17 +142,8 @@
   
 </p>
 
-<!--
-<p align="center">
-  <a href="https://apps.apple.com/app/idXXXXXXXXX" target="_blank">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Available on the Apple Store" width="150"/>
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.example" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Available on Google Play" width="150"/>
-  <!-- </a>
-  <a href="https://appgallery.huawei.com/#/app/CXXXXXXXX" target="_blank">
-    <img src="https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/stores/Generic/00000002/headers/appgallery_generic_header.png" alt="Available on Huawei AppGallery" width="150"/>
-  </a>
-  <a href="screenshots/app-galery.png" target="_blank">
-    <img src="screenshots/amazon-appstore.png" alt="Available on Amazon Appstore" width="150"/>
-  </a> -->
+### For More Info:
+
+- Contact Me: Hellalet Younes
+- Email: hellalet.younes@gmail.com
+- Phone: +213 558466741
