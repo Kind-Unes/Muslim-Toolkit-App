@@ -34,26 +34,10 @@
 # تطبيق وحي البيان (الاصدار 1.0.1)
 
 <img src="screenshots\poster.png" alt="Application Poster">
-<!-- <table border="1" align="center">
-  <thead>
-    <tr>
-      <th>Application's Poster</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-      </td>
-    </tr>
-  </tbody>
-</table> -->
-
-<!-- # **متوفر الأن على جميع المتاجر** -->
-
 <table border="1" width="100%" align="center">
   <thead>
     <tr>
-      <th colspan="2">Balagh Logo & Download</th>
+      <th colspan="2">Wahi Albayan Logo & Download</th>
     </tr>
   </thead>
   <tbody>
@@ -139,7 +123,6 @@
   <img src="screenshots/sc (22).jpg" width="200" />
   <img src="screenshots/sc (26).jpg" width="200" />
   <img src="screenshots/sc (24).jpg" width="200" />
-  
 </p>
 
 ### For More Info:
